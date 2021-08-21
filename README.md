@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Priyanshu Yadav.
-- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 Contact - priyanshuyadav004@gmail.com
