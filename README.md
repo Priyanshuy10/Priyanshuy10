@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshu Yadav.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m a creative developer.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 Contact - priyanshuyadav004@gmail.com
 
