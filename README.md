@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshu Yadav.
-- 🌱 I’m a creative developer.
+- 🌱 I’m a front-end developer.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 Contact - priyanshuyadav004@gmail.com
 
